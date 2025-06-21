@@ -1,4 +1,4 @@
-package isotope.types
+package isotope.types;
 
 import arc.*;
 import arc.graphics.*;
