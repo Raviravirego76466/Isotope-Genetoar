@@ -6,7 +6,7 @@ import arc.graphics.g2d.*;
 import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
-import betamindy.content.*;
+import isotope.content.*;
 import mindustry.content.*;
 import mindustry.entities.*;
 import mindustry.game.*;
