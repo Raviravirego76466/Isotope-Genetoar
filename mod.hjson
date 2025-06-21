@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Isotope Generator"
+
+#the internal name of your mod
+name: "isotope"
+
+#your name
+author: "Raviravirego76466"
+
+#the fully qualified main class of the mod
+main: "isotope"
+
+#the mod description as seen in the mod dialog
+description: "A Mindustry Java mod."
+
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 146
+
+#this is a java mod
+java: true
